@@ -133,7 +133,7 @@ const writeTextFiles = function (result, outputFiles, cb) {
   testCaseResult_Dto.isMandatory = true;
   testCaseResult_Dto.erroMessage = "";
 
-  let GUID = "d907aa7b-3b6d-4940-8d09-28329ccbc070";
+  let GUID = "ca05fcd2-022a-413d-bd66-86a2c885c146";
   //let customData = "Some Custom Data";
   //testCaseResults.set(this.GUID,JSON.stringify(testCaseResult_Dto));
   testCaseResults[GUID] = testCaseResult_Dto;
